@@ -42,9 +42,9 @@ img {
   color: #212121;
 }
 
-.checkbox-input {
+.visualy-hidden, .checkbox-input {
   position: absolute;
-  widows: 1px;
+  width: 1px;
   height: 1px;
   margin: -1px;
   border: 0;

@@ -1,6 +1,9 @@
 .our-features {
   padding: 94px 0 47px;
 }
+.visualy-hidden {
+  @extend %visualyHidden;
+}
 .our-features-list {
   display: flex;
   justify-content: space-between;
