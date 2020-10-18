@@ -1,8 +1,8 @@
 .our-project {
   padding: 94px 0;
 }
-.visualy-hidden {
-    @extend %visualyHidden;
+.visually-hidden {
+  @extend %visuallyHidden;
 }
 .filter-list {
   display: flex;

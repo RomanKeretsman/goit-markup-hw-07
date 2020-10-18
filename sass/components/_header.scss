@@ -1,6 +1,6 @@
 .header {
   border-bottom: 1px solid #ececec;
-  & .container {
+  .container {
     @include centeredFlex($jc: space-between);
   }
 }
@@ -94,4 +94,3 @@
 .header-contacts-mail {
   margin-right: 30px;
 }
-
