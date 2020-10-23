@@ -309,12 +309,6 @@ img {
   padding: 47px 0 94px;
 }
 
-@media screen and (min-width: 480px) {
-  .work {
-    display: none;
-  }
-}
-
 .work-list {
   display: -webkit-box;
   display: -ms-flexbox;
